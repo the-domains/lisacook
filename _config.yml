@@ -1,7 +1,7 @@
 name: LisaCook
 favicon: null
-layout_spectrum: 0.912732430966571
-typography_spectrum: 0.4303382511716336
+layout_spectrum: 0.96176
+typography_spectrum: 0.13279
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.07160428143106401
+    - '#d5d6d8'
+    - '#b42b45'
+    - '#243700'
+    - '#060501'
+    - '#52790c'
+  brandStrength: 0.5
   lightness: 0.9625230797100812
-  saturation: 0.05976107367314398
+  saturation: 0.125
   rhythmicContrast: 0.6189385729376227
 purpose: []
