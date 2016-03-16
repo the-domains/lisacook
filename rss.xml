@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[LisaCook]]></title>
         <description><![CDATA[LisaCook]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lisacook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 21:19:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 21:26:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lisacook/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sometimes, the time I spend on the internet isn't completely wasted and I find something I might like to see again or that I think someone else might also find interesting. </p>]]></description>
-            <link>undefinedsometimes-the-time-i-spend-on-the-internet-isnt-completely/index.html</link>
+            <link>https://thegrid.ai/lisacook/sometimes-the-time-i-spend-on-the-internet-isnt-completely/index.html</link>
             <guid isPermaLink="false">db315aba-5c74-407b-8974-617e23a7547a</guid>
-            <pubDate>Wed, 16 Mar 2016 21:19:34 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 21:25:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
