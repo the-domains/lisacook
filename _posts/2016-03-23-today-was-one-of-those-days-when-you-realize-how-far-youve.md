@@ -6,28 +6,31 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Today was one of those days when you realize how far you've fallen. How did I go from Queen of My Universe- which had not boundaries, to being the loneliest person trapped in a house I hate in in a town I tolerate because of a FEW decent folks, in a state I loathe.\_"
-datePublished: '2016-03-23T05:52:12.048Z'
-dateModified: '2016-03-23T05:52:02.910Z'
+datePublished: '2016-03-23T06:16:34.635Z'
+dateModified: '2016-03-23T06:14:52.530Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-23-today-was-one-of-those-days-when-you-realize-how-far-youve.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-today-was-one-of-those-days-when-you-realize-how-far-youve.md
-published: true
 url: today-was-one-of-those-days-when-you-realize-how-far-youve/index.html
 _type: Article
 
 ---
-Today was one of those days when you realize how far you've fallen. How did I go from Queen of My Universe- which had not boundaries, to being the loneliest person trapped in a house I hate in in a town I tolerate because of a FEW decent folks, in a state I loathe. 
+Today was one of those days when you realize how far you've fallen. How did I go from Queen of My Universe- which had no boundaries, to being the loneliest person in the world trapped in a house I hate in in a town I tolerate because of a FEW decent folks, in a state I loathe. " If I had friends, I'm forced to tell him regularly, I wouldn't have sat alone in this empty house for 3 years..." which usually shuts him up as there really is no comeback for that. Not after all this time and everything that's happened.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/657dbf21-c205-48e2-9adc-4e69edd5a13a.jpg)
 
-Trapped. Uneducated. Small kids. I have nowhere to go. Now that there is no more TEAM COOK, I cant get far enough away from him. SO now we're both on our own, and the delusion I held otherwise ended up being a lie. I could make him stay with this parents and stress everybody out. Especially the kids. But, sadly,, I don't even care. Let him be the bad guy for once. Let him figure it out on his own. I'm done. So, so done. We probably should have just separated right away instead of trying todo it alone, yet somehow beside each other. Too much resentment. It takes too much energy to eve try.  I need to talk. He can't. I feel trapped. He doesnt seem to care. He feels trapped too.  It always come down to the girls. Focus on them. Taking care of them. Like they dont know. Like they cant see. They remember how it used to be and they miss him too.
+Fast forward to now. And 3-5 years is both slow and fast in ways you cant even imagine. 
+
+Trapped. Uneducated. Small,sad kids. I have nowhere to go. Now that there is no more TEAM COOK, I can't get far enough away from him. SO now we're both on our own, and the delusion I held otherwise ended up being a lie. Pathetic, even. I could make him stay with this parents and stress everybody out. Especially the kids. But, sadly,, I don't even care. Let him be the bad guy for once. Let him figure it out on his own. I'm done. So, so done. We probably should have just separated right away instead of trying to do it alone, yet somehow beside each other. Drowning. Too much resentment. It takes too much energy to even try.  I need to talk. He can't. I feel trapped. He doesnt seem to care. He feels trapped too.  It always come down to the girls. Focus on them. Taking care of them. Like they dont know. Like they cant see. They remember how it used to be and they miss him too.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75c4e306-01f7-46ba-8ba7-9c93f523cd88.jpg)
 
-I search the web looking for somewhere to go. ANYWHERE but here. I used to enjoy going to New York, and Europe and Cruises--Oh, the Cruises, but that's all pretty much out.  Maybe I can find a place Trey would have hated. Somehow, I think his absence will still be a presence. A presence so overwhelming, you cant see past it no matter where you are. 
+I search the web looking for somewhere to go. ANYWHERE but here. I used to enjoy going to New York, and Europe and Cruises--Oh, the Cruises. But that's all pretty much out.  Maybe I can find a place Trey would have hated. Somehow, I think his absence will still be a presence. A presence so overwhelming, you cant see past it no matter where you are. The song will always be stuck in my head:
 
 "Cause I never thought I'd lose,
 
@@ -41,4 +44,6 @@ I desperately need to know that he's ok. That he knows how loved and cherished h
 
 Another night without sleep. Ruminating. Trying to remember and hold on to every second.  Wishing I'd played closer attention. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df54149e-e1d1-4899-8592-d8098da1fecc.jpg)
 
-It never occurred to me, in a million years, that we could ever lose him, my larger than life son; my sweet boy.
+It never occurred to me, in a million years, that we could ever lose him, my larger than life son; my sweet boy. 
+
+Maybe Ill never find peace. Maybe its on the Camino, or SE Asia. But its definitely not here, looking at his empty chair every day and the ruins that were our hopes and dreams. We should really just cut our losses and dig two holes. Maybe keep someone else from making the same mistake and "living" 3 years of hell. it isnt worth it. not for a second. My heart died right along with his and everything else is a lie, that nobody's buying. Other mothers know. I see it in their eyes the way they look at me. Or don't.
